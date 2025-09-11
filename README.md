@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rousavelt. A student at Imperial studying Mathematics and Finance MSc, and Alumni of the Cambridge Maths Tripos
 - 👀 I’m interested in Oil Painting, Figure Drawing, Japanese, Probability brain teasers, and financial mathematics.
 - 🌱 I’m currently learning Image Recognition.
-- 💞️ I’m looking to collaborate on anything... 
+- 💞️ I’m looking to collaborate on anything... (Historical, or Financial projects are the most interesting to me at the moment... the Herculaneum Papyri are so cool!)
 - 📫 You can reach me... if you already know who I am ;)
 - ⚡ Fun fact: The word for sea star in Japanese is spelt 'sea star', but is pronounced as 'person's hand'. This feature of taking Chinese spellings and Japanese pronunciations is fairly common, frustrating for learners (like me) as the pronunciation is impossible to guess without already knowing the word.
