@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Image Recognition.
 - 💞️ I’m looking to collaborate on anything... 
 - 📫 You can reach me... if you already know who I am ;)
-- ⚡ Fun fact: The word for sea star in Japanese is spelt 'sea star', but is pronounced as 'person's hand'. This feature of taking Chinese spellings and Japanese pronunciations is fairly common, and quite annoying as the pronunciation is impossible to guess without already knowing the word.
+- ⚡ Fun fact: The word for sea star in Japanese is spelt 'sea star', but is pronounced as 'person's hand'. This feature of taking Chinese spellings and Japanese pronunciations is fairly common, frustrating for learners (like me) as the pronunciation is impossible to guess without already knowing the word.
