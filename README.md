@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rousavelt. A student at Imperial studying Mathematics and Finance MSc, and Alumni of the Cambridge Maths Tripos
+- 👋 Hi, I’m @Rousavelt. An alumni of Imperial that studied Mathematics and Finance MSc, and Alumni of the Cambridge Maths Tripos
 - 👀 I’m interested in Oil Painting, Figure Drawing, Japanese, Probability brain teasers, and financial mathematics.
 - 🌱 I’m currently learning Image Recognition.
 - 💞️ I’m looking to collaborate on anything... (Historical, or Financial projects are the most interesting to me at the moment... the Herculaneum Papyri are so cool!)
