@@ -1,11 +1,13 @@
 
 
 - 👋 Hi, I’m @Rousavelt. An alumni of Imperial that studied Mathematics and Finance MSc, and Alumni of the Cambridge Maths Tripos
+
 The work I'm most proud of is:
--Lead Lag Estimation
--Price Impact Explains Wrong Way Risk
--The Optimal Bowl
--Minimally strongly connecting weakly connected graphs
+- Lead Lag Estimation
+- Price Impact Explains Wrong Way Risk
+- The Optimal Bowl
+- Minimally strongly connecting weakly connected graphs
+
 (Not necessarily in that order!)
 
 Otherwise:
