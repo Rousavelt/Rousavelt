@@ -1,4 +1,14 @@
+
+
 - 👋 Hi, I’m @Rousavelt. An alumni of Imperial that studied Mathematics and Finance MSc, and Alumni of the Cambridge Maths Tripos
+The work I'm most proud of is:
+-Lead Lag Estimation
+-Price Impact Explains Wrong Way Risk
+-The Optimal Bowl
+-Minimally strongly connecting weakly connected graphs
+(Not necessarily in that order!)
+
+Otherwise:
 - 👀 I’m interested in Oil Painting, Figure Drawing, Japanese, Probability brain teasers, and financial mathematics.
 - 🌱 I’m currently learning Image Recognition.
 - 💞️ I’m looking to collaborate on anything... (Historical, or Financial projects are the most interesting to me at the moment... the Herculaneum Papyri are so cool!)
